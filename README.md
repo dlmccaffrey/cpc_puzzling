@@ -1,0 +1,1 @@
+This is a collection of scripts that I wrote for Microsoft College Puzzle Challenge 2017.
